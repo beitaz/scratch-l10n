@@ -10,3 +10,5 @@ npm-*
 
 # generated build files
 /dist
+
+package-lock.json
