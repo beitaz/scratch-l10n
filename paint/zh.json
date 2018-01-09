@@ -1,86 +1,90 @@
-{
+﻿{
     "paint.paintEditor.redo": {
-        "message": "Redo",
-        "description": "Alt to image for the button to redo an action"
+        "message": "前进",
+        "description": "图像编辑器中图像操作步骤前进按钮"
     },
     "paint.paintEditor.fill": {
-        "message": "Fill",
-        "description": "Label for the color picker for the fill color"
+        "message": "选择颜色",
+        "description": "颜色选择器的颜色填充标签"
     },
     "paint.modeTools.eraserSize": {
-        "message": "Eraser size",
-        "description": "Label for the eraser size input"
+        "message": "橡皮擦大小",
+        "description": "橡皮擦大小参数输入标签"
     },
     "paint.paintEditor.backward": {
-        "message": "Backward",
-        "description": "Label for the `Send backward on canvas` button"
+        "message": "下一层",
+        "description": "将选中图形元素向下移动一个图层的按钮标签"
     },
     "paint.paintEditor.group": {
-        "message": "Group",
-        "description": "Label for the button to group shapes"
+        "message": "组合",
+        "description": "将选中图形元素组合成一个整体的按钮标签"
     },
     "paint.modeTools.paste": {
         "message": "粘贴",
-        "description": "Label for the paste button"
+        "description": "粘贴按钮的标签"
     },
     "paint.paintEditor.saturation": {
-        "message": "Saturation",
-        "description": "Label for the saturation component in the color picker"
+        "message": "饱和度",
+        "description": "颜色选择器中饱和度组件的标签"
     },
     "paint.modeTools.brushSize": {
-        "message": "Brush size",
-        "description": "Label for the brush size input"
+        "message": "画笔大小",
+        "description": "画笔大小参数输入的标签"
     },
     "paint.paintEditor.undo": {
-        "message": "Undo",
-        "description": "Alt to image for the button to undo an action"
+        "message": "后撤",
+        "description": "图像编辑器中图像操作步骤后撤按钮"
     },
     "paint.paintEditor.forward": {
-        "message": "Forward",
-        "description": "Label for the `Send forward on canvas` button"
+        "message": "上一层",
+        "description": "将选中图形元素向上移动一个图层的按钮标签"
+    },
+    "paint.paintEditor.more": {
+        "message": "更多。",
+        "description": "下拉标签以访问更多的动作按钮"
     },
     "paint.paintEditor.brightness": {
-        "message": "Brightness",
-        "description": "Label for the brightness component in the color picker"
+        "message": "亮度",
+        "description": "颜色选择器中亮度组件的标签"
     },
     "paint.paintEditor.costume": {
-        "message": "Costume",
-        "description": "Label for the name of a sound"
+        "message": "造型",
+        "description": "造型名称的标签"
     },
     "paint.paintEditor.back": {
-        "message": "Back",
-        "description": "Label for the `Send to back of canvas` button"
+        "message": "最底层",
+        "description": "将选中图形元素移动到最下图层的按钮标签"
     },
     "paint.paintEditor.ungroup": {
-        "message": "Ungroup",
-        "description": "Label for the button to ungroup shapes"
+        "message": "取消组合",
+        "description": "将组合成一个整体的图片元素打散的按钮标签"
     },
     "paint.paintEditor.hue": {
-        "message": "Color",
-        "description": "Label for the hue component in the color picker"
+        "message": "色调",
+        "description": "颜色选择器中色调组件的标签"
     },
     "paint.modeTools.copy": {
-        "message": "Copy",
-        "description": "Label for the copy button"
+        "message": "复制",
+        "description": "复制按钮的标签"
     },
     "paint.paintEditor.front": {
-        "message": "Front",
-        "description": "Label for the `Send to front of canvas` button"
+        "message": "最上层",
+        "description": "将选中图形元素移动到最上图层的按钮标签"
     },
     "paint.paintEditor.stroke": {
-        "message": "Outline",
-        "description": "Label for the color picker for the outline color"
+        "message": "轮廓",
+        "description": "轮廓颜色选择器的标签"
     },
     "paint.paintEditor.zoomOut": {
-        "message": "Zoom Out",
-        "description": "Zoom out the cavnas in costume edit pane"
+        "message": "缩小",
+        "description": "在造型编辑器中缩小画布"
     },
     "paint.paintEditor.zoomIn": {
-        "message": "Zoom In",
-        "description": "Zoom in the cavnas in costume edit pane"
+        "message": "放大",
+        "description": "在造型编辑器中放大画布"
     },
     "paint.paintEditor.zoomReset": {
-        "message": "Zoom Reset",
-        "description": "Reset zoom the cavnas in costume edit pane"
+        "message": "原始",
+        "description": "在造型编辑器中恢复画布原始大小"
     }
 }

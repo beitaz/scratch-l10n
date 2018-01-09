@@ -1,70 +1,70 @@
-{
-  "pen.setColor": {
-    "message": "set pen color to [COLOR]",
-    "description": "set the pen color to a particular (RGB) value"
-  },
-  "pen.setColorParam": {
-    "message": "set pen [COLOR_PARAM] to [VALUE]",
-    "description": "set the state for a pen color parameter e.g. saturation"
-  },
-  "pen.colorMenu.brightness": {
-    "message": "brightness",
-    "description": "label for brightness element in color picker for pen extension"
-  },
-  "pen.setSize": {
-    "message": "set pen size to [SIZE]",
-    "description": "set the diameter of a trail left by a sprite"
-  },
-  "pen.changeHue": {
-    "message": "change pen hue by [HUE]",
-    "description": "legacy pen blocks - change pen color"
-  },
-  "pen.stamp": {
-    "message": "stamp",
-    "description": "render current costume on the background"
-  },
-  "pen.clear": {
-    "message": "清除",
-    "description": "erase all pen trails and stamps"
-  },
-  "pen.setHue": {
-    "message": "set pen hue to [HUE]",
-    "description": "legacy pen blocks - set pen color to number"
-  },
-  "pen.setShade": {
-    "message": "set pen shade to [SHADE]",
-    "description": "legacy pen blocks - set pen shade"
-  },
-  "pen.colorMenu.color": {
-    "message": "color",
-    "description": "label for color element in color picker for pen extension"
-  },
-  "pen.changeSize": {
-    "message": "change pen size by [SIZE]",
-    "description": "change the diameter of the trail left by a sprite"
-  },
-  "pen.colorMenu.transparency": {
-    "message": "transparency",
-    "description": "label for transparency element in color picker for pen extension"
-  },
-  "pen.changeColorParam": {
-    "message": "change pen [COLOR_PARAM] by [VALUE]",
-    "description": "change the state of a pen color parameter"
-  },
-  "pen.penDown": {
-    "message": "pen down",
-    "description": "start leaving a trail when the sprite moves"
-  },
-  "pen.penUp": {
-    "message": "pen up",
-    "description": "stop leaving a trail behind the sprite"
-  },
-  "pen.colorMenu.saturation": {
-    "message": "saturation",
-    "description": "label for saturation element in color picker for pen extension"
-  },
-  "pen.changeShade": {
-    "message": "change pen shade by [SHADE]",
-    "description": "legacy pen blocks - change pen shade"
-  }
+﻿{
+    "pen.setColor": {
+        "message": "将画笔的颜色设定为 [颜色]",
+        "description": "将画笔的颜色设定为指定的RGB参数值"
+    },
+    "pen.setColorParam": {
+        "message": "将画笔 [颜色参数] 设定为 [值]",
+        "description": "选择画笔颜色因素(如:饱和度)并设定其参数值"
+    },
+    "pen.colorMenu.brightness": {
+        "message": "亮度",
+        "description": "在画笔颜色选择器中亮度元素的标签"
+    },
+    "pen.setSize": {
+        "message": "将画笔的大小设定为 [大小]",
+        "description": "设置画笔画出轨迹的直径值"
+    },
+    "pen.changeHue": {
+        "message": "将画笔的色调增加 [色调]",
+        "description": "老版本遗传的画笔模块-调整画笔色调增量"
+    },
+    "pen.stamp": {
+        "message": "图章",
+        "description": "在舞台背景上画出指定造型的图案"
+    },
+    "pen.clear": {
+        "message": "清除",
+        "description": "清除所有画笔轨迹和图章"
+    },
+    "pen.setHue": {
+        "message": "将画笔的色调设定为 [色调]",
+        "description": "老版本遗传的画笔模块-设定画笔的色调"
+    },
+    "pen.setShade": {
+        "message": "将画笔阴影度设定为 [阴影度]",
+        "description": "老版本遗传的画笔模块-设定画笔的阴影度"
+    },
+    "pen.colorMenu.color": {
+        "message": "颜色",
+        "description": "在画笔颜色选择器中颜色元素的标签"
+    },
+    "pen.changeSize": {
+        "message": "将画笔的大小增加 [大小]",
+        "description": "调整画笔画出轨迹的直径值增量"
+    },
+    "pen.colorMenu.transparency": {
+        "message": "透明度",
+        "description": "在画笔颜色选择器中透明度元素的标签"
+    },
+    "pen.changeColorParam": {
+        "message": "将画笔的 [颜色参数] 增加 [值]",
+        "description": "调整画笔颜色参数值的增量"
+    },
+    "pen.penDown": {
+        "message": "落笔",
+        "description": "角色移动时,开始留下轨迹"
+    },
+    "pen.penUp": {
+        "message": "抬笔",
+        "description": "停止在角色后面留下轨迹"
+    },
+    "pen.colorMenu.saturation": {
+        "message": "饱和度",
+        "description": "在画笔颜色选择器中饱和度元素的标"
+    },
+    "pen.changeShade": {
+        "message": "将画笔阴影度增加 [阴影度]",
+        "description": "老版本遗传的画笔模块-调整画笔阴影度增量"
+    }
 }

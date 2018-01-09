@@ -1,279 +1,182 @@
-{
+﻿{
     "gui.comingSoon.message1": {
-        "message": "Don't worry, we're on it {emoji}",
-        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+        "message": "此功能正在开发中，敬请关注！",
+        "description": "即将到来的“随机”消息之一，尚未完成的功能"
     },
     "gui.comingSoon.message2": {
-        "message": "Coming Soon...",
-        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+        "message": "稍后更新...",
+        "description": "即将到来的“随机”消息之一，尚未完成的功能"
     },
     "gui.comingSoon.message3": {
-        "message": "We're working on it {emoji}",
-        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
-    },
-
-    "gui.stageSelector.targetPaneAddBackdrop": {
-        "message": "添加背景",
-        "description": "Button to add a backdrop in the target pane"
-    },
-    "gui.turboMode.active": {
-        "message": "Turbo Mode",
-        "description": "Label indicating turbo mode is active"
-    },
-    "gui.spriteSelectorItem.contextMenuDuplicate": {
-        "message": "duplicate",
-        "description": "Menu item to duplicate in the right click menu"
-    },
-    "gui.spriteSelectorItem.contextMenuDelete": {
-        "message": "delete",
-        "description": "Menu item to delete in the right click menu"
-    },
-    "gui.stageSelector.backdrops": {
-        "message": "Backdrops",
-        "description": "Label for the backdrops in the stage selector"
-    },
-
-
-
-    "gui.gui.stage": {
-        "message": "Stage",
-        "description": "Label for stage"
-    },
-    "gui.gui.addExtension": {
-        "message": "添加扩展",
-        "description": "Button to add an extension in the target pane"
-    },
-    "gui.gui.addSprite": {
-        "message": "Add Sprite",
-        "description": "Button to add a sprite in the target pane"
-    },
-    "gui.gui.addBackdrop": {
-        "message": "Add Backdrops",
-        "description": "Button to add a backdrop in the editor tab"
-    },
-    "gui.gui.stageSizeLarge": {
-        "message": "Stage Size Toggle - Large",
-        "description": "Button to change stage size to large"
-    },
-    "gui.gui.stageSizeSmall": {
-        "message": "Stage Size Toggle - Small",
-        "description": "Button to change stage size to small"
-    },
-    "gui.gui.stageSizeFull": {
-        "message": "Stage Size Toggle - Full Screen",
-        "description": "Button to change stage size to full screen"
-    },
-    "gui.gui.stageSizeUnFull": {
-        "message": "Stage Size Toggle - un-Full Screen",
-        "description": "Button to get out of full screen mode"
-    },
-
-
-    "gui.menuBar.save": {
-        "message": "Save",
-        "description": "Button to save project"
-    },
-    "gui.menuBar.load": {
-        "message": "Load",
-        "description": "Button to load project"
-    },
-    "gui.menuBar.language": {
-        "message": "Language",
-        "description": "Button to language select"
-    },
-    "gui.menuBar.giveFeedback": {
-        "message": "Give Feedback",
-        "description": "Label for feedback form modal button"
-    },
-
-
-    "gui.blockTab.tab": {
-        "message": "Blocks",
-        "description": "模块标签名称"
-    },
-
-
-
-
-    "gui.costumeTab.tab": {
-        "message": "Costumes",
-        "description": "Button to add a costume in the editor tab"
-    },
-    "gui.costumeTab.addCostume": {
-        "message": "Add Costumes",
-        "description": "Button to add a costume in the editor tab"
-    },
-    "paint.paintEditor.costume": {
-        "message": "Costume",
-        "description": "Label for the name of a sound"
-    },
-    "paint.paintEditor.group": {
-        "message": "Group",
-        "description": "Label for the button to group shapes"
-    },
-    "paint.paintEditor.ungroup": {
-        "message": "Ungroup",
-        "description": "Label for the button to ungroup shapes"
-    },
-    "paint.paintEditor.undo": {
-        "message": "Undo",
-        "description": "Alt to image for the button to undo an action"
-    },
-    "paint.paintEditor.redo": {
-        "message": "Redo",
-        "description": "Alt to image for the button to redo an action"
-    },
-    "paint.paintEditor.forward": {
-        "message": "Forward",
-        "description": "Label for the `Send forward on canvas` button"
-    },
-    "paint.paintEditor.backward": {
-        "message": "Backward",
-        "description": "Label for the `Send backward on canvas` button"
-    },
-    "paint.paintEditor.more": {
-        "message": "More",
-        "description": "Label for dropdown to access more action buttons"
-    },
-    "paint.paintEditor.front": {
-        "message": "Front",
-        "description": "Label for the `Send to front of canvas` button"
-    },
-    "paint.paintEditor.back": {
-        "message": "Back",
-        "description": "Label for the `Send to back of canvas` button"
-    },
-    "paint.paintEditor.hue": {
-        "message": "颜色",
-        "description": "Label for the hue component in the color picker"
-    },
-    "paint.paintEditor.saturation": {
-        "message": "Saturation",
-        "description": "Label for the saturation component in the color picker"
-    },
-    "paint.paintEditor.brightness": {
-        "message": "Brightness",
-        "description": "Label for the brightness component in the color picker"
-    },
-    "paint.paintEditor.fill": {
-        "message": "Fill",
-        "description": "Label for the color picker for the fill color"
-    },
-    "paint.paintEditor.stroke": {
-        "message": "Outline",
-        "description": "Label for the color picker for the outline color"
-    },
-    "paint.modeTools.brushSize": {
-        "message": "Brush size",
-        "description": "Label for the brush size input"
-    },
-    "paint.modeTools.eraserSize": {
-        "message": "Eraser size",
-        "description": "Label for the eraser size input"
-    },
-    "paint.modeTools.copy": {
-        "message": "复制",
-        "description": "Label for the copy button"
-    },
-    "paint.modeTools.paste": {
-        "message": "Paste",
-        "description": "Label for the paste button"
-    },
-    "paint.modeTools.curved": {
-        "message": "Curved",
-        "description": "Label for the button that converts selected points to curves"
-    },
-    "paint.modeTools.pointed": {
-        "message": "Pointed",
-        "description": "Label for the button that converts selected points to sharp points"
-    },
-    "paint.modeTools.flipHorizontal": {
-        "message": "水平翻转",
-        "description": "Label for the button to flip the image horizontally"
-    },
-    "paint.modeTools.flipVertical": {
-        "message": "Flip Vertical",
-        "description": "Label for the button to flip the image vertically"
-    },
-    "paint.paintEditor.bitmap": {
-        "message": "Convert to Bitmap",
-        "description": "Label for button that converts the paint editor to bitmap mode"
-    },
-
-
-
-
-
-    "gui.soundTab.tab": {
-        "message": "音频",
-        "description": "音频标签名称"
-    },
-    "gui.soundTab.recordSound": {
-        "message": "Record Sound",
-        "description": "Button to record a sound in the editor tab"
+        "message": "此功能正在开发中，敬请关注！",
+        "description": "即将到来的“随机”消息之一，尚未完成的功能"
     },
     "gui.soundTab.addSound": {
-        "message": "Add Sound",
-        "description": "Button to add a sound in the editor tab"
-    },
-    "gui.soundEditor.undo": {
-        "message": "撤销",
-        "description": "Title of the button to undo"
-    },
-    "gui.soundEditor.redo": {
-        "message": "重做",
-        "description": "Title of the button to redo"
-    },
-    "gui.soundEditor.trim": {
-        "message": "裁剪",
-        "description": "Title of the button to start trimminging the sound"
-    },
-    "gui.soundEditor.sound": {
-        "message": "Sound",
-        "description": "Label for the name of the sound"
-    },
-    "gui.soundEditor.play": {
-        "message": "播放",
-        "description": "Title of the button to start playing the sound"
-    },
-    "gui.soundEditor.stop": {
-        "message": "停止",
-        "description": "Title of the button to stop the sound"
-    },
-    "gui.soundEditor.faster": {
-        "message": "Faster",
-        "description": "Title of the button to apply the faster effect"
-    },
-    "gui.soundEditor.slower": {
-        "message": "Slower",
-        "description": "Title of the button to apply the slower effect"
+        "message": "添加声音",
+        "description": "在声音编辑器中添加声音的按钮标题"
     },
     "gui.soundEditor.echo": {
-        "message": "Echo",
-        "description": "Title of the button to apply the echo effect"
-    },
-    "gui.soundEditor.robot": {
-        "message": "Robot",
-        "description": "Title of the button to apply the robot effect"
-    },
-    "gui.soundEditor.louder": {
-        "message": "Louder",
-        "description": "Title of the button to apply the louder effect"
-    },
-    "gui.soundEditor.softer": {
-        "message": "Softer",
-        "description": "Title of the button to apply thr.softer effect"
-    },
-    "gui.soundEditor.reverse": {
-        "message": "Reverse",
-        "description": "Title of the button to apply the reverse effect"
+        "message": "回声",
+        "description": "回声应用按钮的标题"
     },
     "gui.soundEditor.save": {
         "message": "保存",
-        "description": "Title of the button to save trimmed sound"
+        "description": "保存声音修剪效果按钮的标题"
     },
-    "gui.soundEditor.library": {
-        "message": "Sound Library",
-        "description": "Library for sounds"
+    "gui.soundEditor.stop": {
+        "message": "停止",
+        "description": "停止声音播放按钮的标题"
+    },
+    "gui.soundEditor.redo": {
+        "message": "前进",
+        "description": "声音修剪操作步骤前进按钮的标题"
+    },
+    "gui.soundEditor.softer": {
+        "message": "轻一点",
+        "description": "声音轻一点效果按钮的标题"
+    },
+    "gui.soundEditor.robot": {
+        "message": "机器人",
+        "description": "声音机器人效果按钮的标题"
+    },
+    "gui.soundEditor.trim": {
+        "message": "修剪",
+        "description": "开始修剪声音的按钮标题"
+    },
+    "gui.soundEditor.slower": {
+        "message": "慢一点",
+        "description": "声音慢一点效果按钮的标题"
+    },
+    "gui.soundEditor.play": {
+        "message": "播放",
+        "description": "开始播放声音的按钮标题"
+    },
+    "gui.costumeTab.addBackdrop": {
+        "message": "添加背景",
+        "description": "编辑器中添加背景的按钮标题"
+    },
+    "gui.turboMode.active": {
+        "message": "加速模式",
+        "description": "内核加速模式指示标签"
+    },
+    "gui.spriteSelector.addSprite": {
+        "message": "添加角色",
+        "description": "舞台中添加角色的按钮标题"
+    },
+    "gui.spriteSelectorItem.contextMenuDuplicate": {
+        "message": "复制",
+        "description": "右键菜单中的复制选项"
+    },
+    "gui.spriteSelectorItem.contextMenuDelete": {
+        "message": "删除",
+        "description": "右键菜单中的删除选项"
+    },
+    "gui.stageSelector.targetPaneAddBackdrop": {
+        "message": "添加背景",
+        "description": "舞台中添加背景的按钮标题"
+    },
+    "gui.stageSelector.backdrops": {
+        "message": "背景",
+        "description": "舞台窗口的背景标签名称"
+    },
+    "gui.gui.stage": {
+        "message": "舞台",
+        "description": "舞台标签"
+    },
+    "gui.gui.stageSizeLarge": {
+        "message": "舞台大小切换—最大化",
+        "description": "将舞台大小最大化的按钮"
+    },
+    "gui.gui.stageSizeSmall": {
+        "message": "舞台大小切换—最小化",
+        "description": "将舞台大小最小化的按钮"
+    },
+    "gui.gui.stageSizeFull": {
+        "message": "舞台大小切换—全屏",
+        "description": "将舞台全屏化的按钮"
+    },
+    "gui.gui.stageSizeUnFull": {
+        "message": "舞台大小切换—退出全屏",
+        "description": "退出舞台全屏化的按钮"
+    },
+    "gui.menuBar.save": {
+        "message": "保存",
+        "description": "保存文件按钮"
+    },
+    "gui.menuBar.load": {
+        "message": "打开",
+        "description": "打开文件按钮"
+    },
+    "gui.menuBar.language": {
+        "message": "语言",
+        "description": "语音切换按钮"
+    },
+    "gui.menuBar.giveFeedback": {
+        "message": "反馈建议。",
+        "description": "意见及建议反馈按钮"
+    },
+    "gui.blockTab.tab": {
+        "message": "脚本",
+        "description": "积木模块标签名称。"
+    },
+    "paint.modeTools.curved": {
+        "message": "变形",
+        "description": "拖动节点改变图形的按钮标签"
+    },
+    "paint.modeTools.pointed": {
+        "message": "选择",
+        "description": "选中图形元素按钮"
+    },
+    "paint.modeTools.flipHorizontal": {
+        "message": "水平翻转",
+        "description": "将图片水平（左右）翻转的按钮"
+    },
+    "paint.modeTools.flipVertical": {
+        "message": "垂直翻转。",
+        "description": "将图片垂直（上下）翻转的按钮"
+    },
+    "paint.paintEditor.bitmap": {
+        "message": "转换为位图",
+        "description": "将图形转换为位图格式"
+    },
+    "gui.soundTab.tab": {
+        "message": "音频",
+        "description": "音频标签名称。"
+    },
+    "gui.soundEditor.louder": {
+        "message": "响一点",
+        "description": "声音响一点效果按钮的标题"
+    },
+    "gui.soundEditor.faster": {
+        "message": "快一点",
+        "description": "声音快一点效果按钮的标题"
+    },
+    "gui.soundTab.recordSound": {
+        "message": "录音",
+        "description": "在声音编辑器中录制声音的按钮"
+    },
+    "gui.gui.addExtension": {
+        "message": "扩展",
+        "description": "在当前窗口添加扩展项目的按钮"
+    },
+    "gui.soundEditor.reverse": {
+        "message": "反转",
+        "description": "声音反转效果按钮的标题"
+    },
+    "gui.soundEditor.undo": {
+        "message": "后撤",
+        "description": "声音修剪操作步骤后撤按钮的标题"
+    },
+    "gui.costumeTab.tab": {
+        "message": "造型。",
+        "description": "造型标签"
+    },
+    "gui.costumeTab.addCostume": {
+        "message": "添加造型",
+        "description": "编辑器中添加造型的按钮标题"
+    },
+    "gui.soundEditor.sound": {
+        "message": "声音",
+        "description": "声音名称的标签"
     }
 }
