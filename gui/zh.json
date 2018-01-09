@@ -1,4 +1,16 @@
 {
+    "gui.comingSoon.message1": {
+        "message": "Don't worry, we're on it {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "gui.comingSoon.message2": {
+        "message": "Coming Soon...",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
+    "gui.comingSoon.message3": {
+        "message": "We're working on it {emoji}",
+        "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
+    },
 
     "gui.stageSelector.targetPaneAddBackdrop": {
         "message": "添加背景",
@@ -28,7 +40,7 @@
         "description": "Label for stage"
     },
     "gui.gui.addExtension": {
-        "message": "Add Extensions",
+        "message": "添加扩展",
         "description": "Button to add an extension in the target pane"
     },
     "gui.gui.addSprite": {
@@ -38,6 +50,22 @@
     "gui.gui.addBackdrop": {
         "message": "Add Backdrops",
         "description": "Button to add a backdrop in the editor tab"
+    },
+    "gui.gui.stageSizeLarge": {
+        "message": "Stage Size Toggle - Large",
+        "description": "Button to change stage size to large"
+    },
+    "gui.gui.stageSizeSmall": {
+        "message": "Stage Size Toggle - Small",
+        "description": "Button to change stage size to small"
+    },
+    "gui.gui.stageSizeFull": {
+        "message": "Stage Size Toggle - Full Screen",
+        "description": "Button to change stage size to full screen"
+    },
+    "gui.gui.stageSizeUnFull": {
+        "message": "Stage Size Toggle - un-Full Screen",
+        "description": "Button to get out of full screen mode"
     },
 
 
@@ -54,7 +82,7 @@
         "description": "Button to language select"
     },
     "gui.menuBar.giveFeedback": {
-        "message": "反馈",
+        "message": "Give Feedback",
         "description": "Label for feedback form modal button"
     },
 
@@ -243,5 +271,9 @@
     "gui.soundEditor.save": {
         "message": "保存",
         "description": "Title of the button to save trimmed sound"
+    },
+    "gui.soundEditor.library": {
+        "message": "Sound Library",
+        "description": "Library for sounds"
     }
 }
