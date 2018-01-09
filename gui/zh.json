@@ -1,4 +1,4 @@
-﻿{
+{
     "gui.comingSoon.message1": {
         "message": "此功能正在开发中，敬请关注！",
         "description": "即将到来的“随机”消息之一，尚未完成的功能"
@@ -51,18 +51,22 @@
         "message": "播放",
         "description": "开始播放声音的按钮标题"
     },
+
+
     "gui.costumeTab.addBackdrop": {
         "message": "添加背景",
         "description": "编辑器中添加背景的按钮标题"
-    },
-    "gui.turboMode.active": {
-        "message": "加速模式",
-        "description": "内核加速模式指示标签"
     },
     "gui.spriteSelector.addSprite": {
         "message": "添加角色",
         "description": "舞台中添加角色的按钮标题"
     },
+
+    "gui.turboMode.active": {
+        "message": "加速模式",
+        "description": "内核加速模式指示标签"
+    },
+
     "gui.spriteSelectorItem.contextMenuDuplicate": {
         "message": "复制",
         "description": "右键菜单中的复制选项"

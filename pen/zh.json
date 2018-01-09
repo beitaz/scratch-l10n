@@ -1,4 +1,4 @@
-﻿{
+{
     "pen.setColor": {
         "message": "将画笔的颜色设定为 [颜色]",
         "description": "将画笔的颜色设定为指定的RGB参数值"

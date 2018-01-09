@@ -75,7 +75,7 @@ components.forEach((component) => {
     fs.writeFileSync(MSGS_DIR + component + '-msgs.js', data);
 
     if (missingLocales.length > 0) {
-        process.stdout.write('missing locales: ' + missingLocales.toString());
+        process.stdout.write('********* Missing locales: ' + missingLocales.toString() + ' *********\n');
         process.exit(1);
     }
 });

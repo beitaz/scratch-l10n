@@ -1,4 +1,4 @@
-﻿{
+{
     "paint.paintEditor.redo": {
         "message": "前进",
         "description": "图像编辑器中图像操作步骤前进按钮"
@@ -19,6 +19,8 @@
         "message": "组合",
         "description": "将选中图形元素组合成一个整体的按钮标签"
     },
+
+
     "paint.modeTools.paste": {
         "message": "粘贴",
         "description": "粘贴按钮的标签"
